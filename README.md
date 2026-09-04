@@ -39,6 +39,19 @@ Computers are categorized based on their size, processing capability, and intend
 -**Microcomputers**: Personal devices such as desktops, laptops, and tablets.
 
 
+ ||History of computers
+
+1. **First Generation (1940-1956)**: Used Vacuum Tubes (e.g., ENIAC).
+2. 
+3. **Second Generation (1956-1963)**: Introduced Transistors.
+4. 
+5. **Third Generation (1964-1971)**: Introduced Integrated Circuits (ICs).
+6. 
+7. **Fourth Generation (1971-Present)**: Powered by Microprocessors.
+8. 
+9. **Fifth Generation (Present & Beyond)**: Based on Artificial Intelligence.
+
+
 
 
 

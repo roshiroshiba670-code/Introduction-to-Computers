@@ -16,19 +16,7 @@ A *computer* is an electronic device that accepts data, processes it according t
 The purpose of this project is to learn about the basic concepts of computers and understand their development and different types.
 
 
-||Topics covered
-
-
-
-
-
-
-
-
-
-
-
-
+||Topics covered.
 
 
 -Introduction to computers
